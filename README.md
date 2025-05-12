@@ -9,7 +9,7 @@ Este repositório separei em 9 exercícios de JavaScript e TypeScript. Cada exer
 
 
 
-**1️⃣ Manipulação de DOM e Funções com JavaScript/TypeScript**
+**1️⃣ Manipulação de DOM e Funções com JavaScript/TypeScript**  
 **📝 Descrição:** Exercício de manipulação de elementos DOM, com a criação de funções que somam dois valores e exibem o resultado no console.  
 
 **📜 JavaScript:** Versão padrão com manipulação direta de DOM.  
@@ -20,7 +20,7 @@ Este repositório separei em 9 exercícios de JavaScript e TypeScript. Cada exer
 
 
 
-**2️⃣ Manipulação de DOM com Tipagem** 
+**2️⃣ Manipulação de DOM com Tipagem**  
 **📝 Descrição:** O exercício continua a manipulação do DOM, mas agora com foco na declaração de tipos em TypeScript, garantindo maior controle de tipos e evitando erros de tipo.  
 
 **📜 JavaScript:** Manipulação similar ao exercício anterior, mas sem o controle de tipos.  
@@ -31,7 +31,7 @@ Este repositório separei em 9 exercícios de JavaScript e TypeScript. Cada exer
 
 
 
-**3️⃣ Uso de Any em TypeScript** 
+**3️⃣ Uso de Any em TypeScript**  
 **📝 Descrição:** Exercício que explora o tipo any do TypeScript, permitindo que as variáveis aceitem valores de qualquer tipo, e demonstrando o uso de variáveis dinâmicas.  
 
 **📜 JavaScript:** Código básico para manipulação de variáveis com qualquer tipo de valor.  
@@ -42,7 +42,7 @@ Este repositório separei em 9 exercícios de JavaScript e TypeScript. Cada exer
 
 
 
-**4️⃣ Uso de Enum e Interfaces em TypeScript** 
+**4️⃣ Uso de Enum e Interfaces em TypeScript**  
 **📝 Descrição:** Este exercício foca no uso de enums e interfaces para modelar objetos com propriedades específicas e organizar melhor o código.
 
 **📜 JavaScript:** Uso de objetos simples para armazenar informações de pessoas.  
@@ -53,8 +53,8 @@ Este repositório separei em 9 exercícios de JavaScript e TypeScript. Cada exer
 
 
 
-**5️⃣ Manipulação de Tipos Dinâmicos com Funções** 
-**📝 Descrição:** Exercício que explora a manipulação de diferentes tipos de dados nas funções, utilizando condições para decidir o comportamento baseado nos tipos de entrada.  
+**5️⃣ Manipulação de Tipos Dinâmicos com Funções**   
+  **📝 Descrição:** Exercício que explora a manipulação de diferentes tipos de dados nas funções, utilizando condições para decidir o comportamento baseado nos tipos de entrada.  
 
 **📜 JavaScript:** Função sem tipo explícito, mas capaz de manipular números e strings de forma dinâmica.  
 
@@ -64,8 +64,8 @@ Este repositório separei em 9 exercícios de JavaScript e TypeScript. Cada exer
 
 
 
-**6️⃣ Objetos e Arrays com Tipagem**
-**📝 Descrição:** Este exercício explora como trabalhar com objetos e arrays no JavaScript e TypeScript, utilizando a tipagem para evitar erros comuns.  
+**6️⃣ Objetos e Arrays com Tipagem**  
+  **📝 Descrição:** Este exercício explora como trabalhar com objetos e arrays no JavaScript e TypeScript, utilizando a tipagem para evitar erros comuns.  
 
 **📜 JavaScript:** Objetos simples para armazenar dados de pessoas e profissões.  
 
@@ -76,8 +76,8 @@ Como garantir a consistência de dados com interface e enum.
 
 
 
-**7️⃣ Manipulação de Valores Dinâmicos com Funções**
-**📝 Descrição:** Exercício com funções que podem receber diferentes tipos de dados como parâmetros, permitindo a concatenação de strings ou a soma de números.
+**7️⃣ Manipulação de Valores Dinâmicos com Funções**  
+  **📝 Descrição:** Exercício com funções que podem receber diferentes tipos de dados como parâmetros, permitindo a concatenação de strings ou a soma de números.
 
 **📜 JavaScript:** Função sem tipo explícito, manipulando entradas dinâmicas.
 
@@ -87,8 +87,8 @@ Como garantir a consistência de dados com interface e enum.
 
 
 
-**8️⃣ Funções com Callback e Tipos de Retorno**
-**📝 Descrição:** Exercício que demonstra o uso de funções com callbacks e como definir os tipos de retorno de funções.
+**8️⃣ Funções com Callback e Tipos de Retorno**  
+  **📝 Descrição:** Exercício que demonstra o uso de funções com callbacks e como definir os tipos de retorno de funções.
 
 **📜 JavaScript:** Funções que somam valores e aplicam callbacks para manipulação de resultados.
 
@@ -98,13 +98,11 @@ Como garantir a consistência de dados com interface e enum.
 
 
 
-**9️⃣ Uso de any, unknown e never**
-**📝 Descrição:** Este exercício aborda os tipos any, unknown e never no TypeScript, destacando as diferenças e os melhores usos.
+**9️⃣ Uso de any, unknown e never**  
+  **📝 Descrição:** Este exercício aborda os tipos any, unknown e never no TypeScript, destacando as diferenças e os melhores usos.
 
 **📜 JavaScript:** Manipulação de variáveis de tipo dinâmico.
 
 **🧾 TypeScript:** Uso dos tipos any, unknown, never, e como cada um pode ser útil dependendo do contexto.  
 
 **✅ Pontos importantes:** O tipo any é flexível, mas pode ser perigoso se usado excessivamente. unknown é mais seguro que any, exigindo verificações de tipo. never é usado para funções que nunca retornam (como funções que lançam erros).
-
-
