@@ -19,12 +19,12 @@ JavaScript
 TypeScript
   
 **🧩 Versão em TypeScript**  
-Além do arquivo app-exemplo1.js, o repositório também conta com uma versão equivalente escrita em TypeScript, disponível em app-exemplo1.```ts.
+Além do arquivo app-exemplo1.js, o repositório também conta com uma versão equivalente escrita em TypeScript, disponível em app-exemplo1.ts.
   
 **✅ Melhorias com TypeScript**  
 A principal vantagem da versão em TypeScript é o uso de tipagem estática, que ajuda a prevenir erros em tempo de desenvolvimento e torna o código mais seguro e fácil de entender.
   
-**Principais diferenças em relação ao JS:**
+**Principais diferenças em relação ao JS:**  
 Tipagem explícita para as variáveis e parâmetros:
 ```ts
 let input1 = document.getElementById('input1') as HTMLInputElement;
@@ -36,7 +36,7 @@ let input2 = document.getElementById('input2') as HTMLInputElement;
 function adicionarNumero(numero1: number, numero2: number, devePrintar: boolean, frase: string)
 ```
   
-**Tipagem de variável frase:**
+**Tipagem de variável frase:**  
 ```ts
 let frase: string;
 ```
