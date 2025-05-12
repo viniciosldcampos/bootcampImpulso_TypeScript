@@ -1,4 +1,4 @@
-**📘 app-exemplo1.js**  
+**📘 Aplicação simples**  
 Este repositório contém um exemplo simples de aplicação web utilizando JavaScript e TypeScript. O foco é demonstrar a manipulação de elementos do DOM, tratamento de eventos e operações básicas com tipos numéricos.
   
 **🚀 Funcionalidade**  
