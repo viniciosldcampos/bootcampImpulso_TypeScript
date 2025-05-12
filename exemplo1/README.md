@@ -51,8 +51,8 @@ Demonstrar uma verificação básica de tipos antes de realizar uma operação m
 **📚 Conclusão**  
 Este repositório serve como base para aprender conceitos iniciais de:
 
-**Manipulação de elementos DOM com JavaScript**
-**Tipagem e segurança com TypeScript**
-**Boas práticas de validação de dados de entrada**
+**Manipulação de elementos DOM com JavaScript**  
+**Tipagem e segurança com TypeScript**  
+**Boas práticas de validação de dados de entrada**  
   
 É ideal para quem está começando com desenvolvimento web e deseja entender as diferenças entre JS puro, validações básicas e o uso de TypeScript.
